@@ -1,0 +1,4 @@
+import pyttsx3
+friend = pyttsx3.init()
+friend.say(" pv zk pv pv zk pv zk kx zk pv pv pv zk pv zk zk pzk pzk pvzkpkzvpvzk kkkkkk bsch "*5)
+friend.runAndWait()
